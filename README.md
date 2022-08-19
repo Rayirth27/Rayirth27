@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Rayirth27
+ Hi 👋 I’m Rayirth Jaiswal
+
 - 👀 I’m interested in development and UI/UX 
 - 🌱 I’m currently learning Core Java and DSA.
 - 💞️ I’m looking to collaborate on Android development
