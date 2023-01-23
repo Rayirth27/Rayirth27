@@ -3,7 +3,7 @@
 <h3 align="center">A passionate designer and developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.gif?cid=790b7611641fd5673a0da4910c6fd263df91e8fbb47be5e5&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **XML and UI/UX**
+- 🌱 I’m currently improving skills in **UI/UX design**
 
 - 👯 I’m looking to collaborate on **Android Dev projects**
 
