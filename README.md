@@ -1,25 +1,48 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMydWdhM3o0bGJ6cXBqMTJsMmV6MTMwNnpzcXFwejg1dm5vd2FnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.webp" width="27%" alt="banner"/>
 </div>
-<h1 align="center">Hey, I'm Rayirth Jaiswal 👋</h1>
- <p align="center">
-  <i>Building in public. One week at a time.</i>
-</p>
-<h3 align="left">Connect with me:</h3>
 
+<h2 align="center">Hey, I'm Rayirth Jaiswal 👋</h2>
 <p align="center">
-<a href="https://linkedin.com/in/rayirthjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayirthjaiswal" height="30" width="40" /></a>
-<a href="https://fb.com/rayirth.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rayirth.jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/rayirth_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayirth_jaiswal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rayirthjaiswal27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rayirthjaiswal27" height="30" width="40" /></a>
+  <b> <i>Carving one thing at a time.</i></b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Let's Connect 🤝
+<table align="left">
+  <tr>
+    <td><a href="https://linkedin.com/in/rayirthjaiswal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
+    <td><a href="https://instagram.com/rayirth_jaiswal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a></td>
+<td>  <a href="https://www.hackerrank.com/rayirthjaiswal27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
+  </tr>
+</table>
 
-📧 rayirthjaiswal27@gmail.com  
-📝 Writing on [Instagram](https://www.instagram.com/disclosed_scripts/)
- 
+
+<image align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.gif?cid=790b7611641fd5673a0da4910c6fd263df91e8fbb47be5e5&rid=giphy.gif&ct=g">
+<p align="="><i></i></p>
+<br>
+<br>  
+  
+## 👨‍💻 About Me
+
+- 🔐 PAM Engineering — CyberArk PAS stack (Vault, PVWA, CPM, PSM, PSMP, CCP)
+- ⚙️ Automation via REST API and PowerShell — bulk onboarding, rotation, compliance reporting
+- ☁️ PAM coverage across Windows, Unix, Database, Mainframe, and AWS
+- 📚 Currently exploring: AWS SCS-C02 · CyberArk Conjur · OWASP LLM Top 10 · MITRE ATLAS
+
 ---
- 
 
+
+### 🛠️ Tools & Languages
+
+<table>
+  <tr>
+    <td><a href="https://www.cyberark.com/" target="_blank"><img src="https://images.credly.com/images/93f40eba-dc60-41ee-ac37-74b847f94f3b/image.png" width="50" height="50"/></a></td>
+    <td><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a></td>
+    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
+  </tr>
+</table>
