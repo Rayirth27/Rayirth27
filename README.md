@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMydWdhM3o0bGJ6cXBqMTJsMmV6MTMwNnpzcXFwejg1dm5vd2FnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.webp" width="27%" alt="banner"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMydWdhM3o0bGJ6cXBqMTJsMmV6MTMwNnpzcXFwejg1dm5vd2FnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.webp" width="36%" alt="banner"/>
 </div>
 
-<h2 align="center">Hey, I'm Rayirth Jaiswal 👋</h2>
+<h2 align="center">Hey, I'm Ray👋</h2>
 <p align="center">
-  <b> <i>Carving one thing at a time.</i></b>
+  <b> <i>Creating one thing at a time.</i></b>
 </p>
 
 ### Let's Connect 🤝
@@ -17,12 +17,13 @@
 </table>
 
 
-<image align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.gif?cid=790b7611641fd5673a0da4910c6fd263df91e8fbb47be5e5&rid=giphy.gif&ct=g">
-<p align="="><i></i></p>
+<image align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.gif?cid=790b7611641fd5673a0da4910c6fd263df91e8fbb47be5e5&rid=giphy.gif&ct=g">
+<p align="="></p>
 <br>
-<br>  
+<br>
+<br>
   
-## 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 - 🔐 PAM Engineering — CyberArk PAS stack (Vault, PVWA, CPM, PSM, PSMP, CCP)
 - ⚙️ Automation via REST API and PowerShell — bulk onboarding, rotation, compliance reporting
