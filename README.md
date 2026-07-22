@@ -25,10 +25,14 @@
   
 <h3>👨‍💻 About Me</h3>
 
-- 🔐 PAM Engineering — CyberArk PAS stack (Vault, PVWA, CPM, PSM, PSMP, CCP)
-- ⚙️ Automation via REST API and PowerShell — bulk onboarding, rotation, compliance reporting
-- ☁️ PAM coverage across Windows, Unix, Database, Mainframe, and AWS
-- 📚 Currently exploring: AWS SCS-C02 · CyberArk Conjur · OWASP LLM Top 10 · MITRE ATLAS
+Backend Engineer building distributed systems and AI-powered tools from first principles.
+
+- **principal-storage-engine** — Redis-compatible in-memory storage engine from raw Python sockets
+  TCP server · Pub/Sub · atomic persistence · bounded concurrency
+- **log-parser-security** — LLM-powered log analysis tool mapped to MITRE ATT&CK
+
+## Stack
+Python · FastAPI · PostgreSQL · Redis · Docker · AWS · GitHub Actions · LLM APIs · RAG pipelines · AI agents · LangChain · Distributed systems (DDIA)
 
 ---
 
